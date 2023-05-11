@@ -9,7 +9,6 @@ class RootView extends Croquet.View {
         this.model = model;
 
         console.log("VIEW subscribed ");
-        this.#addChangeColorMenu();
     }
 }
 
